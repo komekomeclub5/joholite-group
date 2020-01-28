@@ -1,0 +1,64 @@
+@charset "UTF-8";
+
+.otoia {
+  margin-top: 50px;
+}
+.lead-form{
+  text-align: center;
+  font-size:20px;
+}
+form{
+  width:600px;
+  margin:0 auto;
+}
+.form{
+  overflow: hidden;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.label{
+  float: left;
+  margin-right: 20px;
+  width:135px;
+  padding-left: 10px;
+}
+.inputs{
+  float: left;
+  width:300px;
+}
+input[type="text"]{
+  border: 1px dashed #aaa;
+  border-radius:5px;
+  padding:10px;
+  font-size: 15px;
+  background-color: #A7F1FF;
+  box-shadow:0 0 0 2px #A7F1FF;
+}
+textarea{
+  border:1px dashed #aaa;
+  border-radius:5px;
+  padding: 10px;
+  height: 160px;
+  font-size: 15px;
+  background-color: #A7F1FF;
+  box-shadow:0 0 0 2px #A7F1FF;
+
+input[type="submit"]{
+  background: #e0505c;
+  border: none;
+  color: white;
+  font-size:17px;
+  font-weight:bold;
+  padding: 10px 20px;
+  margin: 0 5px;
+}
+input[type="reset"]{
+  background: #aaa;
+  border: none;
+  color: white;
+  font-size:17px;
+  font-weight:bold;
+  padding: 10px 20px;
+  margin: 0 5px;
+}
+}

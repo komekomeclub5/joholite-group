@@ -28,9 +28,6 @@ body{
     position: fixed;
     width: 50%;
 }
-.split-right__inner{
-    /*height: 8000px;*/
-}
 
 .left-img {
     position: absolute;
